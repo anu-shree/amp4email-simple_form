@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/varunon9/amp4email.git"
+    "url": "git+https://github.com/anu-shree/amp4email-simple_form.git"
   },
   "keywords": [
     "amp4email",
@@ -20,9 +20,9 @@
   "author": "Anupriya Shree",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/varunon9/amp4email/issues"
+    "url": "https://github.com/anu-shree/amp4email-simple_form/issues"
   },
-  "homepage": "https://github.com/varunon9/amp4email#readme",
+  "homepage": "https://github.com/anu-shree/amp4email-simple_form#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^2.6.2",
